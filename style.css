@@ -740,7 +740,7 @@ a[role="button"]:active {
     width: 100%;
     max-width: 1170px;
     margin: 0 auto;
-    min-height: 40px;
+    min-height: 20px;
 }
 
 @media (min-width: 768px) {
