@@ -701,7 +701,7 @@ a[role="button"]:active {
     border-bottom: 1px solid transparent;
     color: #fff;
     font-size: 13px;
-    min-height: 60px;
+    min-height: 40px;
 }
 
 .topbar .login {
